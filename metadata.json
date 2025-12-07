@@ -1,0 +1,5 @@
+{
+  "name": "currency converter app",
+  "description": "A smart currency converter powered by Gemini 2.5 Flash, providing real-time estimates and historical trends.",
+  "requestFramePermissions": []
+}
